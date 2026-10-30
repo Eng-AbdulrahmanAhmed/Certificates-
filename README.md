@@ -11,3 +11,5 @@ Completed courses on [Scrimba](https://scrimba.com):
 - Learn Express.js
 - Testing in React
 - Learn React
+- Front End Path Certificate
+- Full Stack Path Certificate
